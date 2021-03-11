@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rakshith22-glitch/robofriends/static/css/main.eef2e592.chunk.css",
+    "main.js": "/rakshith22-glitch/robofriends/static/js/main.96ed036b.chunk.js",
+    "main.js.map": "/rakshith22-glitch/robofriends/static/js/main.96ed036b.chunk.js.map",
+    "runtime-main.js": "/rakshith22-glitch/robofriends/static/js/runtime-main.cc0e5955.js",
+    "runtime-main.js.map": "/rakshith22-glitch/robofriends/static/js/runtime-main.cc0e5955.js.map",
+    "static/css/2.fe359a49.chunk.css": "/rakshith22-glitch/robofriends/static/css/2.fe359a49.chunk.css",
+    "static/js/2.ada8869e.chunk.js": "/rakshith22-glitch/robofriends/static/js/2.ada8869e.chunk.js",
+    "static/js/2.ada8869e.chunk.js.map": "/rakshith22-glitch/robofriends/static/js/2.ada8869e.chunk.js.map",
+    "static/js/3.f55801fb.chunk.js": "/rakshith22-glitch/robofriends/static/js/3.f55801fb.chunk.js",
+    "static/js/3.f55801fb.chunk.js.map": "/rakshith22-glitch/robofriends/static/js/3.f55801fb.chunk.js.map",
+    "index.html": "/rakshith22-glitch/robofriends/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/rakshith22-glitch/robofriends/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.eef2e592.chunk.css.map": "/rakshith22-glitch/robofriends/static/css/main.eef2e592.chunk.css.map",
+    "static/js/2.ada8869e.chunk.js.LICENSE.txt": "/rakshith22-glitch/robofriends/static/js/2.ada8869e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/rakshith22-glitch/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc0e5955.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.ada8869e.chunk.js",
+    "static/css/main.eef2e592.chunk.css",
+    "static/js/main.96ed036b.chunk.js"
+  ]
+}
